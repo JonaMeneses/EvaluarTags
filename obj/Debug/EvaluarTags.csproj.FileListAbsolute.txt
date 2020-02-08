@@ -1,0 +1,9 @@
+C:\Users\Jonathan Meneses\Documents\Visual Studio 2015\Projects\E\Hello World\HelloWorld2\EvaluarTags\EvaluarTags\bin\Debug\EvaluarTags.exe.config
+C:\Users\Jonathan Meneses\Documents\Visual Studio 2015\Projects\E\Hello World\HelloWorld2\EvaluarTags\EvaluarTags\bin\Debug\EvaluarTags.exe
+C:\Users\Jonathan Meneses\Documents\Visual Studio 2015\Projects\E\Hello World\HelloWorld2\EvaluarTags\EvaluarTags\bin\Debug\EvaluarTags.pdb
+C:\Users\Jonathan Meneses\Documents\Visual Studio 2015\Projects\E\Hello World\HelloWorld2\EvaluarTags\EvaluarTags\obj\Debug\EvaluarTags.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Meneses\Documents\Visual Studio 2015\Projects\E\Hello World\HelloWorld2\EvaluarTags\EvaluarTags\obj\Debug\EvaluarTags.Form1.resources
+C:\Users\Jonathan Meneses\Documents\Visual Studio 2015\Projects\E\Hello World\HelloWorld2\EvaluarTags\EvaluarTags\obj\Debug\EvaluarTags.Properties.Resources.resources
+C:\Users\Jonathan Meneses\Documents\Visual Studio 2015\Projects\E\Hello World\HelloWorld2\EvaluarTags\EvaluarTags\obj\Debug\EvaluarTags.csproj.GenerateResource.Cache
+C:\Users\Jonathan Meneses\Documents\Visual Studio 2015\Projects\E\Hello World\HelloWorld2\EvaluarTags\EvaluarTags\obj\Debug\EvaluarTags.exe
+C:\Users\Jonathan Meneses\Documents\Visual Studio 2015\Projects\E\Hello World\HelloWorld2\EvaluarTags\EvaluarTags\obj\Debug\EvaluarTags.pdb
